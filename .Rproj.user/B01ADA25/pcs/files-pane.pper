@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/foo",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
